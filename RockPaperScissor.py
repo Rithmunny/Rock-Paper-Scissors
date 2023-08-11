@@ -30,3 +30,4 @@ def play_game():
 
 result = play_game()
 print(result)
+print("Thank you")
